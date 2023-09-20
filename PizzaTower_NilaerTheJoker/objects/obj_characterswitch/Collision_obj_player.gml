@@ -1,9 +1,9 @@
 with (other)
 {
-	if (character == "P")
-		character = "N";
+	if (ispeppino = true)
+		ispeppino = false
 	else
-		character = "P";
+		ispeppino = true
 	respawn = 200;
 	scr_characterspr();
 	instance_destroy(other);
