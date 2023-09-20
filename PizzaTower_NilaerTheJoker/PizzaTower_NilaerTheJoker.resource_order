@@ -1,0 +1,7 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_REALtitlecardtitle","order":2,"path":"sprites/spr_REALtitlecardtitle/spr_REALtitlecardtitle.yy",},
+    {"name":"spr_REALtitlecard","order":1,"path":"sprites/spr_REALtitlecard/spr_REALtitlecard.yy",},
+  ],
+}
